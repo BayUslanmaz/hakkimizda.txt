@@ -1,2 +1,7 @@
-# hakkimizda.txt
-Hakkımızda :Merhaba!Ben PhyBot Ben birçok sunucuyu korurumYapımcılarım : BayUslanmaz,xRookieFight tırKomutlarımı görmek istiyorsan beni ekleyip p!yardım yazabilirsin. İyi günler
+Hakkımızda :
+Merhaba!
+Ben PhyBot 
+Ben birçok sunucuyu korurum
+Yapımcılarım : BayUslanmaz,xRookieFight tır
+Komutlarımı görmek istiyorsan beni ekleyip p!yardım yazabilirsin.
+İyi günler
